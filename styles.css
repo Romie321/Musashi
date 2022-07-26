@@ -1,3 +1,37 @@
-li {    
-    margin: 12px;
-}
+#timeline li {
+    margin: 30px;
+  }
+  
+  #image {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: auto;
+    border: 10px solid #37394b;
+    }
+  
+  #timeline {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+  
+  #tribute-info {
+    text-align: center;
+  }
+  
+  #main {
+    background: #c3e2e8;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  
